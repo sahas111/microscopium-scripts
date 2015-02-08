@@ -20,7 +20,7 @@ db_name: string
         The name of the database in the MongoDB server.
 coll_name : string
         The name of the collection within the database
-        database_name = 'myofusion'
+        database_name = 'myofusion' for big dataset
         collection_name = 'wells'
  mongoconnect: mongod --dbpath ~/project/husc/tests/testdata/mongodb/
 
