@@ -22,7 +22,7 @@ coll_name : string
         The name of the collection within the database
         database_name = 'myofusion' for big dataset
         collection_name = 'wells'
- mongoconnect for big_data: mongod --dbpath ~/project/husc/tests/testdata/mongodb/
+ mongoconnect: mongod --dbpath ~/project/husc/tests/testdata/mongodb/
  """
 
 
